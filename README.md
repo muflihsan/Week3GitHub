@@ -1,2 +1,3 @@
 # Week3GitHub
-Introduction Github Week 3 Bangkit
+I am editing the README file. Adding some more details about the project description.
+
